@@ -1,0 +1,15 @@
+{
+  "name": "lesson2portfolio",
+  "version": "1.0.0",
+  "description": "mock portfolio for udacity lesson 2 project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Renzo Tomlinson",
+  "license": "ISC",
+  "devDependencies": {
+    "grunt": "^1.0.1",
+    "grunt-responsive-images": "^0.1.9"
+  }
+}
